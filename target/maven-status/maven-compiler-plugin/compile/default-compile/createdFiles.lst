@@ -1,0 +1,6 @@
+com\bancadelivros\bancadelivros\BancaDeLivrosApplication.class
+com\bancadelivros\LivroController.class
+com\bancadelivros\LivroRepository.class
+frontend\BancaDeLivrosGUI.class
+com\bancadelivros\Bancadelivros.class
+com\bancadelivros\Livro.class
